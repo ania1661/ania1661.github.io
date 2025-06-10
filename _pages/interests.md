@@ -1,6 +1,6 @@
 ---
-title: "Notes"
-permalink: /notes/
+title: "Research interests"
+permalink: /interests/
 layout: single
 author_profile: true
 ---
