@@ -1,0 +1,38 @@
+/* Background of entire page */
+body {
+  background-color: #e6e6fa; /* light lavender/periwinkle */
+  color: #2c2c2c;
+}
+
+/* Main content area */
+.page, .page__content {
+  background-color: #f6f4fb; /* very soft periwinkle */
+  padding: 1.5rem;
+  border-radius: 12px;
+}
+
+/* Sidebar background */
+.sidebar {
+  background-color: #dcd6f7; /* pale purple */
+}
+
+/* Sidebar text color */
+.sidebar .author__name,
+.sidebar .author__bio {
+  color: #3a2d6b;
+}
+
+/* Links */
+a {
+  color: #6c5ce7; /* periwinkle link */
+}
+
+a:hover {
+  color: #4834d4; /* deeper purple */
+}
+
+/* Top nav bar */
+.masthead {
+  background-color: #dcd6f7;
+  border-bottom: 2px solid #b4adea;
+}
