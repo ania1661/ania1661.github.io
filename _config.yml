@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ania Grodsky"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Ania Grodsky"
+description              : &description "Senior at Michigan State studying mathematics, Research in Lahav Lab, HMS"
+url                      : https://ania1661.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Senior at Michigan State"
   pronouns         : # example: "she/her"  
-  bio              : "Student researcher, applying for PhD programs in fall of 2025"
+  bio              : "enior at Michigan State studying mathematics, Research in Lahav Lab, Harvard Medical School"
   location         : ""
   employer         : ""
   uri              : # URL
