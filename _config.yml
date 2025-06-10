@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Senior at Michigan State"
+  name             : "Ania Grodsky"
   pronouns         : # example: "she/her"  
-  bio              : "enior at Michigan State studying mathematics, Research in Lahav Lab, Harvard Medical School"
+  bio              : "Senior at Michigan State studying mathematics, Researcher in Lahav Lab, Harvard Medical School"
   location         : ""
   employer         : ""
   uri              : # URL
