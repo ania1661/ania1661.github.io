@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Ania Grodsky"
   pronouns         : # example: "she/her"  
-  bio              : "Senior at Michigan State studying mathematics, Researcher in Lahav Lab, Harvard Medical School"
-  location         : ""
-  employer         : ""
+  bio              : "Senior at Michigan State studying mathematics and Researcher in Lahav Lab, Harvard Medical School"
+  location         : #""
+  employer         : "Michigan State University"
   uri              : # URL
   email            : "grodskya@msu.edu" 
 
