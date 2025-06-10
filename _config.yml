@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Ania.jpeg"
   name             : "Ania Grodsky"
   pronouns         : # example: "she/her"  
   bio              : "Senior at Michigan State studying mathematics and Researcher in Lahav Lab, Harvard Medical School"
