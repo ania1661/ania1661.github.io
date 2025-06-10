@@ -9,8 +9,8 @@
 
 main:
   - title: "CV"
-    url: /CV/
+    url: /files/AniaGrodskyCV.pdf
 
   - title: "Research Interests"
-    url: /Interests/    
+    url: /interests/    
 
